@@ -1,0 +1,14 @@
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net9.0\QuanLySachCoBan.exe
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net9.0\QuanLySachCoBan.deps.json
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net9.0\QuanLySachCoBan.runtimeconfig.json
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net9.0\QuanLySachCoBan.dll
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net9.0\QuanLySachCoBan.pdb
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.AssemblyInfoInputs.cache
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.AssemblyInfo.cs
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.csproj.CoreCompileInputs.cache
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.dll
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\refint\QuanLySachCoBan.dll
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.pdb
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\QuanLySachCoBan.genruntimeconfig.cache
+D:\laptrinhtrucquan\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net9.0\ref\QuanLySachCoBan.dll

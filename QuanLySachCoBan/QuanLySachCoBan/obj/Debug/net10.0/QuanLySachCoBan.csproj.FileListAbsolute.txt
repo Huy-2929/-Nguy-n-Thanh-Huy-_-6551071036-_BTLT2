@@ -1,0 +1,14 @@
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.exe
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.deps.json
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.runtimeconfig.json
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.dll
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\bin\Debug\net10.0\QuanLySachCoBan.pdb
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfoInputs.cache
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.AssemblyInfo.cs
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.csproj.CoreCompileInputs.cache
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.dll
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\refint\QuanLySachCoBan.dll
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.pdb
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\QuanLySachCoBan.genruntimeconfig.cache
+E:\Code\QuanLySachCoBan\QuanLySachCoBan\obj\Debug\net10.0\ref\QuanLySachCoBan.dll

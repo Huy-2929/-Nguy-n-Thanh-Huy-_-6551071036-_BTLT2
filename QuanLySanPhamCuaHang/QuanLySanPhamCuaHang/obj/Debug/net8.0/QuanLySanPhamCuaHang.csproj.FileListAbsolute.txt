@@ -1,0 +1,14 @@
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net8.0\QuanLySanPhamCuaHang.exe
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net8.0\QuanLySanPhamCuaHang.deps.json
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net8.0\QuanLySanPhamCuaHang.runtimeconfig.json
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net8.0\QuanLySanPhamCuaHang.dll
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\bin\Debug\net8.0\QuanLySanPhamCuaHang.pdb
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.dll
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\refint\QuanLySanPhamCuaHang.dll
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.pdb
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+D:\laptrinhtrucquan\QuanLySanPhamCuaHang\QuanLySanPhamCuaHang\obj\Debug\net8.0\ref\QuanLySanPhamCuaHang.dll
